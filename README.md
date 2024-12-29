@@ -1,5 +1,5 @@
 # OneUI_Tweak_S21
-[English](https://github.com/amondtips2/OneUI_Tweak_S21/blob/oneui_6.1/README.md) [Korean](https://github.com/amondtips2/OneUI_Tweak_S21/blob/oneui_6.1/README_ko.md)
+[English](https://github.com/amondtips2/OneUI_Tweak_S21/blob/oneui_6.1/README.md) / [Korean](https://github.com/amondtips2/OneUI_Tweak_S21/blob/oneui_6.1/README_ko.md)
 
 One UI Tweak for Galaxy S21(o1s), S21+(t2s), S21 Ultra(p3s) 5G Exynos.
 

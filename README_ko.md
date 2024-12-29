@@ -1,5 +1,5 @@
 # OneUI_Tweak_S21
-[영어](https://github.com/amondtips2/OneUI_Tweak_S21/blob/oneui_6.1/README.md) [한국어](https://github.com/amondtips2/OneUI_Tweak_S21/blob/oneui_6.1/README_ko.md)
+[영어](https://github.com/amondtips2/OneUI_Tweak_S21/blob/oneui_6.1/README.md) / [한국어](https://github.com/amondtips2/OneUI_Tweak_S21/blob/oneui_6.1/README_ko.md)
 
 갤럭시 S21(o1s), S21+(t2s), S21 Ultra(p3s) 5G 엑시노스용 One UI 트윅 모듈입니다.
 
