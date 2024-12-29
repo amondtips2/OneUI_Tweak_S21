@@ -19,3 +19,9 @@
 - One UI 7.0 빅스비 탑재
 - One UI 6.1.1 갤러리 탑재
 - 삼성 한국어-영어 언어 팩 탑재
+
+중간중간 버그가 있을 수 있습니다. 버그는 제보해주시면 수정할 수 있는 것은 수정하겠습니다.
+
+언어 팩은 이유를 모르겠으나 오류가 발생하며 다운로드가 되지 않습니다. 수동으로 설치해주세요.
+
+(https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=LangPack&bundles%5B%5D=apkm_bundles&bundles%5B%5D=apk_files)

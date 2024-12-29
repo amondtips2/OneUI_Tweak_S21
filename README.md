@@ -19,3 +19,9 @@ One UI Tweak for Galaxy S21(o1s), S21+(t2s), S21 Ultra(p3s) 5G Exynos.
 - One UI 7.0 Bixby Include
 - One UI 6.1.1 Gallery Include
 - Samsung Korean-English Language Pack Include
+
+There may be some bugs along the way. Please report any bugs and we will fix what can be fixed.
+
+I don't know why, but the language pack generates an error and cannot be downloaded. Please install manually.
+
+(https://www.apkmirror.com/?post_type=app_release&searchtype=apk&s=LangPack&bundles%5B%5D=apkm_bundles&bundles%5B%5D=apk_files)
