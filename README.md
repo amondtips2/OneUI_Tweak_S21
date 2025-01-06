@@ -4,7 +4,7 @@
 One UI Tweak for Galaxy S21(o1s), S21+(t2s), S21 Ultra(p3s) 5G Exynos.
 
 ## Features:
-- Galaxy AI Support (Except Photo Ambient Wallpaper, Instant Slow-motion)
+- Galaxy AI Support (Except Instant Slow-motion)
 - One UI 6.1.1 Sketch to Image Support
 - One UI 6.1.1 Samsung Capture, Photo Editor Include
 - Support 8K 30FPS Video Recording
@@ -19,6 +19,8 @@ One UI Tweak for Galaxy S21(o1s), S21+(t2s), S21 Ultra(p3s) 5G Exynos.
 - One UI 7.0 Bixby Include
 - One UI 6.1.1 Gallery Include
 - Samsung Korean-English Language Pack Include
+- AOD Lockscreen Wallpaper Support
+- Photo Ambient Wallpaper Support
 
 There may be some bugs along the way. Please report any bugs and we will fix what can be fixed.
 
